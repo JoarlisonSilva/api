@@ -1,0 +1,6 @@
+requests
+psycopg2-binary
+python-dotenv
+prettytable
+streamlit
+pandas
